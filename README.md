@@ -67,9 +67,7 @@ program:
  
 */
 Logic symbol & Truthtable
-![image](https://github.com/Amogaannadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148233865/39b26184-74bb-40a7-bc1e-45d9924d6e1d)
-
-
+![image](https://github.com/Amogaannadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148233865/632cb7d9-1ee6-4382-9be2-d8b3dd7ffe5c)
 
 
 RTL realization
